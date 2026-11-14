@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
 [![Tutorial](https://img.shields.io/badge/📖_Tutorial-dari_nol-5b8cff?style=for-the-badge)](TUTORIAL.md)
-[![Download](https://img.shields.io/badge/⬇️_Download-zip-2ea44f?style=for-the-badge)](../../releases/latest)
+[![Download](https://img.shields.io/badge/⬇️_Download-v0.9.0--beta-2ea44f?style=for-the-badge)](../../releases/tag/v0.9.0-beta)
 [![Issue](https://img.shields.io/badge/🐞_Lapor_bug-Issues-red?style=for-the-badge)](../../issues)
 
 <img src="docs/screenshot-farm.png" width="880" alt="Farm page">
